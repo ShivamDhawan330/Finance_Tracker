@@ -45,3 +45,9 @@ Negative account balance
 * Dashboard view for admins (monitor user savings trends)
 
 
+!!
+Copyright (c) 2025 Shivam Dhawan. All rights reserved.  
+This app is proprietary and confidential.  
+Unauthorized copying, modification, distribution, or use is strictly prohibited. 
+!!
+
